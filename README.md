@@ -59,4 +59,4 @@ Para mais informações entre em contato [yansantos2410@gmail.com]
 Desenvolvedor: Yan de Oliveira
 
 ## Informações adicionais
-Código fonte do aplicativo em outra branch do repositório.
+Código fonte do aplicativo se encontra em outra branch do repositório.
