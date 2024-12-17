@@ -1,6 +1,6 @@
-# Estoque Fácil
+# Estoque Inteligente
 
-**Estoque Fácil** é um aplicativo de controle de estoque desenvolvido para ajudar pequenas e médias empresas a gerenciar seu inventário de forma simples e eficiente. Com uma interface amigável, o aplicativo permite que os usuários adicionem, atualizem e excluam produtos, além de organizar categorias para facilitar a busca.
+**Estoque Inteligente** é um aplicativo de controle de estoque desenvolvido para ajudar pequenas e médias empresas a gerenciar seu inventário de forma simples e eficiente. Com uma interface amigável, o aplicativo permite que os usuários adicionem, atualizem e excluam produtos, além de organizar categorias para facilitar a busca.
 
 ## Funcionalidades
 
