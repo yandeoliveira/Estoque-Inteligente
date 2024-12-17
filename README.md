@@ -55,15 +55,6 @@ Abra um Pull Request.
 Este projeto está licenciado sob a MIT License.
 
 ## Contato
-Para dúvidas ou sugestões, entre em contato:
-
-email:yansantos2410@gmail.com
-
-Nome: Yan de Oliveira
-
-## Informações adicionais:
-
-## Contato
 Para mais informações entre em contato [yansantos2410@gmail.com]                                              
 Desenvolvedor: Yan de Oliveira
 
