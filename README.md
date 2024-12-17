@@ -61,4 +61,11 @@ email:yansantos2410@gmail.com
 
 Nome: Yan de Oliveira
 
-(Arquivos de código em outra branch do repositório)
+## Informações adicionais:
+
+## Contato
+Para mais informações entre em contato [yansantos2410@gmail.com]                                              
+Desenvolvedor: Yan de Oliveira
+
+## Informações adicionais
+Código fonte do aplicativo em outra branch do repositório.
